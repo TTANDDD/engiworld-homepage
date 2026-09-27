@@ -84,3 +84,15 @@
     navLinks.forEach(link => observer.observe(document.querySelector(link.hash)));
   }
 })();
+
+(() => {
+  const video = document.getElementById("hero-video");
+  if (!video) return;
+  const preference = window.matchMedia("(prefers-reduced-motion: reduce)");
+  function respectMotionPreference() {
+    if (preference.matches) { video.autoplay = false; video.pause(); }
+    else { video.autoplay = true; video.play().catch(() => {}); }
+  }
+  preference.addEventListener("change", respectMotionPreference);
+  respectMotionPreference();
+})();

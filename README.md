@@ -14,9 +14,13 @@ The root `index.html` and bundled `assets/` work directly on GitHub Pages, inclu
 
 Official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+## Hero video
+
+The title is followed by a 48-second GUI showcase. It autoplays muted, loops continuously, and includes playback controls. Reduced-motion preferences disable autoplay. The video uses edited real experiment screenshots; the local standalone case clips are not included.
+
 ## Content
 
-The page includes the user-supplied list of 22 authors and 13 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation.
+The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation.
 
 Paper: https://openreview.net/forum?id=4kPwNYWJYm
 
