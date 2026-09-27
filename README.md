@@ -20,7 +20,7 @@ The 48-second GUI showcase appears after the authors, affiliations, resource but
 
 ## Content
 
-The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation. Author names link to verified Google Scholar profiles where available; otherwise they link back to the project homepage.
+The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation. Author names link to verified Google Scholar profiles or GitHub accounts where available; unverified entries link back to the project homepage.
 
 Paper: https://openreview.net/forum?id=4kPwNYWJYm
 
