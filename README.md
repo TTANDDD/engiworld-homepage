@@ -16,11 +16,11 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 
 ## Hero video
 
-The title is followed by a 48-second GUI showcase. It autoplays muted, loops continuously, and includes playback controls. Reduced-motion preferences disable autoplay. The video uses edited real experiment screenshots; the local standalone case clips are not included.
+The 48-second GUI showcase appears after the authors, affiliations, resource buttons, and statistics, immediately above **01 / Overview**. It autoplays muted, loops continuously, and includes playback controls. Reduced-motion preferences disable autoplay. The video uses edited real experiment screenshots; the local standalone case clips are not included.
 
 ## Content
 
-The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation.
+The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation. Author names link to verified Google Scholar profiles where available; otherwise they link back to the project homepage.
 
 Paper: https://openreview.net/forum?id=4kPwNYWJYm
 
