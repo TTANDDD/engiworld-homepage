@@ -16,11 +16,11 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 
 ## Hero video
 
-The 48-second GUI showcase appears after the authors, affiliations, resource buttons, and statistics, immediately above **01 / Overview**. It autoplays muted, loops continuously, and includes playback controls. Reduced-motion preferences disable autoplay. The video uses edited real experiment screenshots; the local standalone case clips are not included.
+The 70-second GUI showcase of 88 distinct successful tasks appears after the authors, affiliations, resource buttons, and statistics, immediately above **01 / Overview**. It autoplays muted, loops continuously, and includes playback controls. Reduced-motion preferences disable autoplay. The video moves from an ALE-inspired introduction into one task and then a wall of 88 successful GUI tasks. The opening cards are stationary; the task wall keeps playing. It uses real experiment recordings and screenshots, with model-neutral agent output.
 
 ## Content
 
-The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation. Author names link to verified Google Scholar profiles or GitHub accounts where available; unverified entries link back to the project homepage.
+The page includes the user-supplied list of 22 authors and 11 affiliations, manuscript figures, task descriptions, model results, ablations, case studies, and a manuscript citation. Author names link to verified Google Scholar profiles or GitHub accounts where available; unverified entries link back to the project homepage. Eight authors are displayed without profile links.
 
 Paper: https://openreview.net/forum?id=4kPwNYWJYm
 
